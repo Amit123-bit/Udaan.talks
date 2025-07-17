@@ -1,0 +1,36 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tech Avara Online</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Tech Avara Online</h1>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#notes">Notes</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>  <section id="home">
+    <h2>Welcome to Tech Avara Online</h2>
+    <p>Learn tech tools, tips & download free notes!</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed?listType=user_uploads&list=techavaraonline" frameborder="0" allowfullscreen></iframe>
+  </section>  <section id="notes">
+    <h2>Download Free Notes</h2>
+    <ul>
+      <li><a href="https://drive.google.com/file/d/1m125DRzB5E5W-Jb308J5Ye5Ga-IAMrhM/view?usp=drivesdk" target="_blank">📘 Beginner's Guide to AI Tools (PDF)</a></li>
+    </ul>
+  </section>  <section id="about">
+    <h2>About Me</h2>
+    <p>I’m Shivnarayan Chaurasiya, founder of Tech Avara Online – a platform where I share YouTube videos on AI tools, tech hacks, and useful notes for students and creators to learn and grow.</p>
+  </section>  <section id="contact">
+    <h2>Contact</h2>
+    <p>📩 Email: <a href="mailto:amit902642@gmail.com">amit902642@gmail.com</a></p>
+  </section>  <footer>
+    <p>© 2025 Tech Avara Online. All rights reserved.</p>
+  </footer>
+</body>
+</html>
